@@ -2,6 +2,8 @@
 layout: default
 ---
 
+Text can be **bold**, _italic_, or ~~strikethrough~~.
+
 ```SPARQL 
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX arco: <https://w3id.org/arco/ontology/arco/>
@@ -13,9 +15,6 @@ WHERE {
 FILTER(REGEX(?label,  "da cocktail", "i"))
 }
 ```
-
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
