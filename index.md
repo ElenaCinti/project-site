@@ -15,7 +15,7 @@ WHERE {
 FILTER(REGEX(?label,  "da cocktail", "i"))
 }
 ```
-![abitocorto_paillettes](/immagini_markdown/abitocorto_paillettes.jpg | width=50)
+![abitocorto_paillettes](/immagini_markdown/abitocorto_paillettes.jpg) (width=50)
 
 ![abito corto con paillettes](https://www.sigecweb.beniculturali.it/images/fullsize/ICCD1070166/ICCD15928135_FTMUBOL46.jpg)
 
