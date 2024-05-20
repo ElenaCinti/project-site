@@ -17,6 +17,8 @@ FILTER(REGEX(?label,  "da cocktail", "i"))
 ```
 ![abitocorto_paillettes](/script/abitocorto_paillettes.jpg)
 
+![abito corto con paillettes] (https://www.sigecweb.beniculturali.it/images/fullsize/ICCD1070166/ICCD15928135_FTMUBOL46.jpg)
+
 [Link to another page](./another-page.html).
 
 There should be whitespace between paragraphs.
