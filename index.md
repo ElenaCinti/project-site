@@ -16,8 +16,9 @@ FILTER(REGEX(?label,  "da cocktail", "i"))
 }
 ```
 1
+
+###Small image
 ![abitocorto_paillettes](/immagini_markdown/abitocorto_paillettes.jpg)
-![](width="250")
 
 2
 <img src="https://www.sigecweb.beniculturali.it/images/fullsize/ICCD1070166/ICCD15928135_FTMUBOL46.jpg" alt="abito paillettes" style="float:left;margin: 10px" width="250"/> abito corto da cocktail in seta nera completamente ricoperto di paillettes color bronzo. L'abito è formato da una gonna dritta unita a un corpino aderente dall'ampio décolleté sostenuto a 2 bretelle. Sulla gonna, all'altezza del punto vita, è cucita una piega laterale fermata da un grande fiocco ricoperto di paillettes viola e poi lasciata sciolta
