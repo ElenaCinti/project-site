@@ -4,7 +4,8 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-```SPARQL 
+```SPARQL
+\begin{minted}{sparql}
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX arco: <https://w3id.org/arco/ontology/arco/>
 SELECT COUNT(DISTINCT ?clothing) AS ?n
@@ -14,6 +15,7 @@ WHERE {
                 a-dd:hasIconographicOrDecorativeApparatus ?dec .
 FILTER(REGEX(?label,  "da cocktail", "i"))
 }
+\end{minted}
 ```
 
 [Link to another page](./another-page.html).
