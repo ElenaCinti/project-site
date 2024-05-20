@@ -22,7 +22,7 @@ FILTER(REGEX(?label,  "da cocktail", "i"))
 2
 <div>
 <img src="https://www.sigecweb.beniculturali.it/images/fullsize/ICCD1070166/ICCD15928135_FTMUBOL46.jpg" alt="abito paillettes" style="float:left" width="250"/>
-hi there
+<p>hi there</p>
 </div>
 
 3
