@@ -17,7 +17,8 @@ FILTER(REGEX(?label,  "da cocktail", "i"))
 ```
 1
 
-###Small image
+### Small image
+
 ![abitocorto_paillettes](/immagini_markdown/abitocorto_paillettes.jpg)
 
 2
