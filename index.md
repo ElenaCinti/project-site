@@ -18,10 +18,13 @@ FILTER(REGEX(?label,  "da cocktail", "i"))
 1
 ![abitocorto_paillettes](/immagini_markdown/abitocorto_paillettes.jpg)
 ![](width="250")
+
 2
 <img src="https://www.sigecweb.beniculturali.it/images/fullsize/ICCD1070166/ICCD15928135_FTMUBOL46.jpg" alt="abito paillettes" width="400"/>
+
 3
 <img src="/immagini_markdown/abitocorto_paillettes.jpg" alt="abito paillettes" width="400"/>
+
 4
 ![abito corto con paillettes](https://www.sigecweb.beniculturali.it/images/fullsize/ICCD1070166/ICCD15928135_FTMUBOL46.jpg)
 
