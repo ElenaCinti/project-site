@@ -15,7 +15,7 @@ WHERE {
 FILTER(REGEX(?label,  "da cocktail", "i"))
 }
 ```
-![abitocorto_paillettes](/immagini_markdown/abitocorto_paillettes.jpg) 
+![abitocorto_paillettes](/immagini_markdown/abitocorto_paillettes.jpg)(width="250")
 ![](width="250")
 
 
