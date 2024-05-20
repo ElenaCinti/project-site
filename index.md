@@ -15,6 +15,7 @@ WHERE {
 FILTER(REGEX(?label,  "da cocktail", "i"))
 }
 ```
+![abitocorto_paillettes](/script/abitocorto_paillettes.jpg)
 
 [Link to another page](./another-page.html).
 
